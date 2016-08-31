@@ -1,4 +1,4 @@
-# Azure Classic VM Integration
+# Azure Classic VM Integration (ASM)
 
 This is a **sample quickstart** project that shows how **Azure Service Management (ASM)** based **REST APIs** can be used to **access** various aspects of **Azure Classic VMs** and **cloud services**.
 
